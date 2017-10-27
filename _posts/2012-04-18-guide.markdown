@@ -73,16 +73,16 @@ Examine a aplicação com os coaches durante o jantar.
 
 #### Sábado: Workshop
 
-09:00 - 10:00 Inscrição e Café
+09:00 - 10:00 Inscrição e Café   
 *Dica* Reserve tempo suficiente para que as pessoas se misturem e para resolver quaisquer problemas que possam existir nas instalações. Forneça livros de trabalho, colete siglas para o exercício de Bento.
 
 10:00 - 10:10 Palavras de boas-vindas  
-* Dica * Mencionar patrocinadores, mostrar o que vamos construir, contar o que é a programação.
+*Dica* Mencionar patrocinadores, mostrar o que vamos construir, contar o que é a programação.
 
 10:30 - 11:00 UX workshop
 
 11:00 - 11:30 Introdução à programação  
-* Dica * Peça a um dos coaches para fazer isso. Explique por que aprender os fundamentos de Ruby é importante mesmo que estejam usando o Rails.
+*Dica* Peça a um dos coaches para fazer isso. Explique por que aprender os fundamentos de Ruby é importante mesmo que estejam usando o Rails.
 
 Temas para cobrir:
 
@@ -106,7 +106,7 @@ Conceitos para cobrir:
 + Controladores e ActionController
 + Visualizações e ERB
 
-* Dicas: * Os coaches também são pessoas. Eles estão fazendo isso pela primeira vez também. O ensino pode ser difícil e intimidante, então lembre-se de estar disponível para ajudar treinadores ou grupos com situações difíceis ou apenas oferecer apoio e incentivo.
+*Dicas:* Os coaches também são pessoas. Eles estão fazendo isso pela primeira vez também. O ensino pode ser difícil e intimidante, então lembre-se de estar disponível para ajudar treinadores ou grupos com situações difíceis ou apenas oferecer apoio e incentivo.
 
 13:00 - 14:00 Almoço
 
@@ -134,7 +134,7 @@ Exemplo de tópicos para conversas de iluminação:
 Uma vez que todos tenham terminado seu aplicativo, há tempo para estender o aplicativo, modificando o CSS, implementando sistemas de comentários etc. Permita tempo suficiente para experimentação.
 
 19:00 Após a festa
-* Dica: *
+*Dica:*
 Convide todos, também os desenvolvedores locais, meninos, aqueles que não foram aceitos, para se juntar!
 
 [Fork este projeto on GitHub][github], Adicione-se e envie-nos um pull request.
@@ -144,47 +144,46 @@ Convide todos, também os desenvolvedores locais, meninos, aqueles que não fora
 
 #### Materials
 
-+ [Download materials](http://www.speakerdeck.com/u/railsgirls)
++ [Download dos Materiais](http://www.speakerdeck.com/u/railsgirls)
 
-### Promotion of Rails Girls
+### Promoção de Rails Girls
 
-Every Rails Girls workshop will get a custom website at railsgirls.com/city where the information is collected and then stored. For past cities, see [railsgirls.com/events](http://railsgirls.com/events)
+Toda oficina de Rails Girls receberá um site personalizado em railsgirls.com/city onde a informação é coletada e depois armazenada. Para cidades passadas, veja [railsgirls.com/events](http://railsgirls.com/events)
 
-You can also set up your own Facebook and Twitter page (remember to add links to your workshop's page!) or whatever service is popular in your community. Promoting the event through social media can go a long way these days, but make sure you have somebody to take care of the chosen channels. Some tips:
+Você também pode configurar sua própria página do Facebook e do Twitter (lembre-se de adicionar links à página da sua oficina!) Ou qualquer serviço que seja popular em sua comunidade. Promover o evento através das mídias sociais pode percorrer um longo caminho nos dias de hoje, mas certifique-se de ter alguém para cuidar dos canais escolhidos. Algumas dicas:
 
-* Keep the tone of posts friendly, positive and welcoming. Be direct in inviting fans/followers to share the event with their friends.
-* Photos are especially powerful messengers. Create your own graphics (*some ideas: "I'm a Rails Girl" Facebook cover for the event, word cloud with first names of women who signed up, an infographic of applications*) or promote photos from other workshops if this is your event. Follow other Rails Girls pages and account to get ideas for content and pass it along to your community.
-* Try various pitches for events to attract different types of women; some will be in it for the fun and meeting new people, some to learn new things, some will be fueled by the desire to show guys that women can do anything. No need to focus on just one group!
-* Don't be afraid to publicly thank women, coaches, blogs, media and other supporters who help you spread the word about your workshop for their support.
-* If your language supports it, use feminine forms when addressing women.
+* Mantenha o tom de mensagens amigável, positivo e acolhedor. Seja direto em convidar fãs / seguidores para compartilhar o evento com seus amigos.
+* As fotos são mensageiros especialmente poderosos. Crie seus próprios gráficos (* algumas idéias: "Eu sou uma garota Rails" na capa do Facebook para o evento, nuvem de palavras com nomes de mulheres que se inscreveram, uma infografia de aplicativos *) ou promova fotos de outras oficinas se este for seu evento. Acompanhe outras páginas e conta do Rails Girls para obter idéias para conteúdo e passá-lo para sua comunidade.
+* Experimente vários lançamentos para eventos para atrair diferentes tipos de mulheres; alguns estarão nele para a diversão e conhecer novas pessoas, algumas para aprender coisas novas, algumas serão alimentadas pelo desejo de mostrar aos caras que as mulheres podem fazer qualquer coisa. Não precisa se concentrar em apenas um grupo!
+* Não tenha medo de agradecer publicamente as mulheres, os coaches, os blogs, os meios de comunicação e outros apoiantes que o ajudam a divulgar a sua oficina sobre o seu apoio.
+* Se o seu idioma o suporta, use formas femininas quando se dirige às mulheres.
 
-While the event is underway, remember to take pictures, collect tweets and ask questions of the participants. You'll be thankful for all of that for your next event. We love to write blog posts about the speaker and participant experiences. A list of the coaches is also required.
+Enquanto o evento estiver em andamento, lembre-se de tirar fotos, coletar tweets e fazer perguntas aos participantes. Você ficará agradecido por tudo isso para o seu próximo evento. Nós adoramos escrever postagens de blog sobre o falante e as experiências dos participantes. Também é necessária uma lista dos coaches.
 
-+ [Download materials](http://www.speakerdeck.com/u/railsgirls)
++ [Download dos Materiais](http://www.speakerdeck.com/u/railsgirls)
 
 #### Website
-E-mail contact(a)railsgirls.com and ask to be included in the repo. Look for readme.txt for further instructions! Before making a site you should have at least two coaches and one sponsor onboard.
+E-mail contact(a)railsgirls.com e peça para ser incluído no repo. Procure o readme.txt para obter mais instruções! Antes de fazer um site, você deve ter pelo menos dois coaches e um patrocinador a bordo.
 
++ [Contador para o site](https://github.com/ys/rails-girls-count#readme)
 
-+ [Counter for the site](https://github.com/ys/rails-girls-count#readme)
+#### Como encontrar desenvolvedores locais?
 
-#### How to find local developers?
+* Google. Quase todos os países tem algum tipo de comunidade Rails ou Ruby (às vezes chamada Ruby Brigade ou Ruby Tuesday). Procure por [Hackernews](http://news.ycombinator.com) meetups, [GitHub](http://www.github.com) contribuidores ou [Dribbble](http: // dribbble) draftees. Encontre a cena local de código aberto. Surfe as conferências de tecnologia (aqui está [uma lista](http://rubythere.com/) de temas com temas de Ruby, mas outros são legais também) e encontros em [meetup.com](http://www.meetup.com) ). Ligue casas de desenvolvimento de software, grandes e pequenas. Não esqueça IRC e podcasts!
 
-* Google. Almost every country has some sort of a Rails or Ruby community (sometimes called Ruby Brigade or Ruby Tuesday). Look for [Hackernews](http://news.ycombinator.com) meetups, [GitHub](http://www.github.com) contributors or [Dribbble](http://dribbble) draftees. Find the local open source scene. Surf the technology conferences (here's [a list](http://rubythere.com/) of Ruby-themed ones, but others are cool too) and meetups at [meetup.com](http://www.meetup.com). Call software development houses, big and small. Don't forget IRC and podcasts!
+* Confira hashtags como #rails #ruby e #opensource de [Pesquisa do Twitter](https://twitter.com/#!/search-home). Para encontrar pessoas de, digamos, perto de NYC, use os seguintes operadores de pesquisa "perto: NYC dentro de: 15mi". Alguns países têm hashtags específicos como #Rubysur e #RubyArg que eles usam, lembre-se de perguntar!
 
-* Check out hashtags like #rails #ruby and #opensource from [Twitter search](https://twitter.com/#!/search-home). To find people from, say, close to NYC, use the following search operators "near:NYC within:15mi". Some countries have specific hashtags like #Rubysur and #RubyArg they use, remember to ask!
+* Comunidade de inicialização. Startup Digest é um bom ponto de partida para eventos e comunidades.
 
-* Startup community. Startup Digest is a good beginning point for events and communities.
+* Muitas vezes, há uma ou duas pessoas-chave que serão capazes de apresentá-lo ainda mais. O mundo da tecnologia está surpreendentemente conectado.
 
-* Often there are one or two key people who will be able to introduce you further. The technology world is surprisingly connected.
+#### Como encontrar participantes?
 
-#### How to find participants?
+* Use mídia social: Facebook, Twitter & redes locais como Weibo. Amigos, namoradas, colegas de trabalho!
 
-* Use social media: Facebook, Twitter & local networks such as Weibo. Friends, girlfriends, co-workers!
+* Local [Girls in Tech](https://twitter.com/#!/gitweet), [DevChix](http://www.devchix.com/), [Geek Girl](http://geekgirlmeetup.com) /) capítulos, etc. Veja também [Meetup.com](http://www.meetup.com/). Listas do Twitter, como o [Tech Women Programs] da @ anitaborg (https://twitter.com/#!/anitaborg_org/tech-women-program) e similares.
 
-* Local [Girls in Tech](https://twitter.com/#!/gitweet), [DevChix](http://www.devchix.com/), [Geek Girl](http://geekgirlmeetup.com/) chapters etc. Check out also [Meetup.com](http://www.meetup.com/). Twitter lists like @anitaborg's [Tech Women Programs](https://twitter.com/#!/anitaborg_org/tech-women-programs) and similar.
-
-* Think outside the box: universities, book clubs, music stores, design agencies, [Etsy](http://www.etsy.com). We want women who are interested in technology, but they can still have very varied backgrounds.
+* Pense fora da caixa: universidades, clubes de livros, lojas de música, agências de design, [Etsy](http://www.etsy.com). Queremos mulheres interessadas em tecnologia, mas ainda podem ter origens muito variadas.
 
 #### How to get press?
 
