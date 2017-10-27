@@ -169,7 +169,7 @@ E-mail contact(a)railsgirls.com e peça para ser incluído no repo. Procure o re
 
 #### Como encontrar desenvolvedores locais?
 
-* Google. Quase todos os países tem algum tipo de comunidade Rails ou Ruby (às vezes chamada Ruby Brigade ou Ruby Tuesday). Procure por [Hackernews](http://news.ycombinator.com) meetups, [GitHub](http://www.github.com) contribuidores ou [Dribbble](http: // dribbble) draftees. Encontre a cena local de código aberto. Surfe as conferências de tecnologia (aqui está [uma lista](http://rubythere.com/) de temas com temas de Ruby, mas outros são legais também) e encontros em [meetup.com](http://www.meetup.com) ). Ligue casas de desenvolvimento de software, grandes e pequenas. Não esqueça IRC e podcasts!
+* Google. Quase todos os países tem algum tipo de comunidade Rails ou Ruby (às vezes chamada Ruby Brigade ou Ruby Tuesday). Procure por [Hackernews](http://news.ycombinator.com) meetups, [GitHub](http://www.github.com) contribuidores ou [Dribbble](http://dribbble) draftees. Encontre a cena local de código aberto. Surfe as conferências de tecnologia (aqui está [uma lista](http://rubythere.com/) de temas com temas de Ruby, mas outros são legais também) e encontros em [meetup.com](http://www.meetup.com) ). Ligue casas de desenvolvimento de software, grandes e pequenas. Não esqueça IRC e podcasts!
 
 * Confira hashtags como #rails #ruby e #opensource de [Pesquisa do Twitter](https://twitter.com/#!/search-home). Para encontrar pessoas de, digamos, perto de NYC, use os seguintes operadores de pesquisa "perto: NYC dentro de: 15mi". Alguns países têm hashtags específicos como #Rubysur e #RubyArg que eles usam, lembre-se de perguntar!
 
